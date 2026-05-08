@@ -12,7 +12,6 @@ The purpose of this project is to:
 - document coursework and technical learning
 - track long-term progress in AI-related topics
 - organize implementations and experiments
-- build a public technical portfolio
 - maintain a centralized knowledge base for future projects and research
 
 The repository is organized by course modules, with each section containing notes, exercises, resources, code implementations, and related material.
